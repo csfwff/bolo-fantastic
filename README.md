@@ -7,6 +7,7 @@
 摸鱼式爆肝接近一星期，基本搞定了
 仓库地址 [https://github.com/csfwff/bolo-fantastic](https://github.com/csfwff/bolo-fantastic)
 感谢 Halo 主题 Fantastic 作者 imkundev ：[Halo 主题 Fantastic✨](https://github.com/imkundev/halo-theme-fantastic)
+感谢 Bolo 作者 [adlered](https://github.com/adlered) 在开发中提供技术支持
 
 ## 使用方法
 
